@@ -1,0 +1,25 @@
+{
+  "name": "tokenvirtual",
+  "version": "1.0.0",
+  "description": "Project for technical test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthoHerrera/tokenVirtual.git"
+  },
+  "author": "Anthony Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthoHerrera/tokenVirtual/issues"
+  },
+  "homepage": "https://github.com/anthoHerrera/tokenVirtual#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.0",
+    "sequelize": "^6.32.1",
+    "speakeasy": "^2.0.0"
+  }
+}
